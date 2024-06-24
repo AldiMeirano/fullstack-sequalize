@@ -2,7 +2,7 @@ const UpCommingBook = () => {
   return (
     <div className="my-4 max-w-screen-2xl mx-auto px-24 justi">
       <div className="py-4">
-        <h1 className="font-title text-3xl font-semibold text-black">
+        <h1 className="font-title sm:text-sm md:text-lg lg:text-2xl font-semibold text-black mb-3">
           New & Upcomming paperback
         </h1>
       </div>
